@@ -1,0 +1,11 @@
+# SwiftUI Demo app for expense tracking
+
+its a basic UI only app for practice
+
+![](Screenshot%202022-10-26%20at%2010.10.15%20PM.png)
+
+![](Screenshot%202022-10-26%20at%2010.10.26%20PM.png)
+
+![](Screenshot%202022-10-26%20at%2010.10.41%20PM.png)
+
+![](Screenshot%202022-10-26%20at%2010.10.47%20PM.png)
